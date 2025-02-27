@@ -43,7 +43,7 @@ npm install styled-components
 ```
 
 ### 3. Instalar o APi Rest Full
-#### Instale o json-server globalmente, uma ferramenta que cria uma API RESTful simulada a partir de um arquivo JSON, permitindo a criação rápida de um servidor para testes:
+#### Instale o json-server globalmente, uma ferramenta que cria uma API REST Full simulada a partir de um arquivo JSON, permitindo a criação rápida de um servidor para testes:
 Esse comando instala o json-server globalmente no seu sistema. O json-server é uma ferramenta que cria uma API RESTful simulada usando um arquivo JSON como banco de dados, permitindo que você crie rapidamente um servidor de desenvolvimento para testes:
 
 ```bash
